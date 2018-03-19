@@ -39,8 +39,8 @@ JB4 = 11 #SPI_CLK
 # Vcc JB6 
 JB7 = 26
 JB8 = 13 #PWM1
-JB9 = 3  #SCL1
-JB10 = 2 #SDA1
+JB9 = 20  #SCL1  fix for lucas project
+JB10 = 18 #SDA1   fix for lucas project
 # Gnd JB11
 # Vcc JB12
 
